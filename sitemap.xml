@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://educentr.github.io/go-iproto/architecture/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/architecture/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/contributing/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/contributing/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/contributing/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/examples/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/examples/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/examples/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/getting-started/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/api/iproto/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/api/iproto/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/api/iproto/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/api/netutil/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/api/netutil/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/api/netutil/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/api/syncutil/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/api/syncutil/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/api/syncutil/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/ru/architecture/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/architecture/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/ru/contributing/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/contributing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/contributing/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/ru/examples/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/examples/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/examples/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/ru/getting-started/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/ru/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/ru/api/iproto/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/api/iproto/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/api/iproto/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/ru/api/netutil/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/api/netutil/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/api/netutil/"/>
+    </url>
+    <url>
+        <loc>https://educentr.github.io/go-iproto/ru/api/syncutil/</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://educentr.github.io/go-iproto/ru/api/syncutil/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://educentr.github.io/go-iproto/api/syncutil/"/>
+    </url>
+</urlset>
